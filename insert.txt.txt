@@ -1,2 +1,3 @@
 Hi this is a file i want to commit man.
 Commit2.
+commit 3.
